@@ -1,7 +1,8 @@
-import javax.swing.*;
+package Ejercicios;
+
 import java.awt.*;
 
-public class InterfazHolaMundo {
+public class InterfazEj1 {
     public static void main(String[] args) {
         //Contenedor
         Frame frame = new Frame("Hola Mundo");
